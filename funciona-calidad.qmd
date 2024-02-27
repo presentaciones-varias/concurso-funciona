@@ -88,7 +88,7 @@ format:
 
 ## El problema {transition="convex"}
 
-![](imagenes/estandar.jpg){width=600px fig-align="center"}
+![](imagenes/estandar.JPG){width=600px fig-align="center"}
 
 :::
 
