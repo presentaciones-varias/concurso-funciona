@@ -1,0 +1,140 @@
+---
+# title: "Capacitación en R y herramientas de productividad"
+# author: "Abril 2021"
+format:
+  revealjs:
+    auto-stretch: false
+    margin: 0
+    slide-number: true
+    scrollable: true
+    preview-links: auto
+    logo: imagenes/logo_portada2.png
+    css: ine_quarto_styles.css
+    # footer: <https://quarto.org>
+---
+
+#
+
+
+[]{.linea-superior} 
+[]{.linea-inferior} 
+
+<!---
+ <img src="imagenes/logo_portada2.png" style="width: 20%"/>  
+--->
+
+<img src="imagenes/logo_portada2.png" width="20%"/>  
+
+
+[**Paquete R calidad para la evaluación de precisión de estimaciones en encuestas de hogares**]{.big-par .center-justified}
+
+[**Instituto Nacional de Estadísticas**]{.big-par .center-justified}
+
+[**Concurso Funciona! 2023 - Servicio Civil**]{.big-par .center-justified}
+
+[**Febrero 2024**]{.big-par .center-justified}
+
+
+## Team de la iniciativa {transition="zoom"}
+
+::: {.panel-tabset}
+
+### [Klaus]{.medium-par}
+
+<br/>
+<br/>
+
+[**Klaus Lehmann**]{.big-par}
+
+[*Coordinador Técnico Proyecto Ciencia de Datos - Subdirección Técnica*]{.medium-par}
+
+### [Jonathan]{.medium-par}
+
+<br/>
+<br/>
+
+[**Jonathan Paredes**]{.big-par}
+
+[*Coordinador de Sección de Estudios de Marcos y Muestras - Departamento de Metodologías e Innovación Estadísticas*]{.medium-par}
+
+### [Ricardo]{.medium-par}
+
+<br/>
+<br/>
+
+[**Ricardo Pizarro**]{.big-par}
+
+[*Analista Senior - Proyecto Ciencia de Datos / Subdirección Técnica*]{.medium-par}
+
+### [Javiera]{.medium-par}
+
+<br/>
+<br/>
+
+[**Javiera Preuss**]{.big-par}
+
+[*Científica de Datos - Proyecto Ciencia de Datos / Subdirección Técnica*]{.medium-par}
+
+### [Ignacio]{.medium-par}
+
+<br/>
+<br/>
+
+[**Ignacio Agloni**]{.big-par}
+
+[*Jefe Proyecto Ciencia de Datos - Subdirección Técnica*]{.medium-par}
+
+:::
+
+## El problema {transition="convex"}
+
+![](imagenes/estandar.jpg){width=600px fig-align="center"}
+
+:::
+
+## La solución {transition="slide"}
+
+<br>
+
+Desarrollo de un programa en R para la implementación del estándar  
+
+<br>
+
+![](imagenes/calidad.png){width=300px fig-align="center"} 
+
+## Impacto {transition="zoom"}
+
+<br>
+
+::: {.incremental .medium-par}
+
+- **Homologación** en la implementación del estándar de calidad dentro del INE<br><br>
+
+- **Reducción de tiempo y errores**<br><br>
+
+- **Simplificación del estándar para usuarios externos**<br><br>
+
+- Creación de una **herramienta gratuita** para la ciudadanía
+
+:::
+
+
+
+#
+
+[]{.linea-superior} 
+[]{.linea-inferior} 
+
+<!---
+ <img src="imagenes/logo_portada2.png" style="width: 20%"/>  
+--->
+
+<img src="imagenes/logo_portada2.png" width="20%"/>  
+
+
+[**GRACIAS**]{.big-par .center-justified}
+
+[**Concurso Funciona! 2023 - Servicio Civil**]{.big-par .center-justified}
+
+[**Febrero 2024**]{.big-par .center-justified}
+
